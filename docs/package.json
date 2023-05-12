@@ -22,7 +22,7 @@
     "@docusaurus/core": "2.0.0-alpha.72",
     "@docusaurus/plugin-content-docs": "2.0.0-alpha.72",
     "@docusaurus/plugin-content-pages": "2.0.0-alpha.72",
-    "@docusaurus/plugin-sitemap": "2.0.0-alpha.72",
+    "@docusaurus/plugin-sitemap": "2.4.0",
     "@docusaurus/theme-classic": "2.0.0-alpha.72",
     "@docusaurus/theme-search-algolia": "2.0.0-alpha.72",
     "classnames": "2.2.6",
